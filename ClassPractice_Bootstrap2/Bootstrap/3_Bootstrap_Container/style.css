@@ -15,14 +15,8 @@ h1 {
   color:black
 }
 
-.GreenBgColor {
-  background-color: green;
-}
-
-.RedBgColor {
-  background-color: red;
-}
-
 .container {
-background-color: aqua;
+  background-color: aqua;
+  max-width: 100%;
+
 }

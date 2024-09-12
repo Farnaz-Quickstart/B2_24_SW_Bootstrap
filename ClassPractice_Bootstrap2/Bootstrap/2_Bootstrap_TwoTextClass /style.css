@@ -23,25 +23,8 @@ h1 {
   background-color: red;
 }
 
-/* .TextStyle {
-text-decoration: line-through;
-}
-
-.class3 {
-  font-size: xx-large;
-}
-
-.class4 {
-  font-family: Arial, Helvetica, sans-serif 
-}
-
-.class5 {
+.QuickstartText {
+  text-align: center;
   font-style: italic;
-} */
-
-.TextClass {
-  font-family: Arial, Helvetica, sans-serif ;
-  text-decoration: line-through;
-  font-size: xx-large;
-  font-style: italic;
+  text-transform: uppercase;
 }

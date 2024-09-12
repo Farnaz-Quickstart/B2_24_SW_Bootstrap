@@ -8,7 +8,8 @@ main {
 
 p {
   background-color: blue;
-  color:aliceblue
+  color:aliceblue;
+  text-align: left;
 }
 
 h1 {
@@ -23,21 +24,6 @@ h1 {
   background-color: red;
 }
 
-/* .TextStyle {
-text-decoration: line-through;
-}
-
-.class3 {
-  font-size: xx-large;
-}
-
-.class4 {
-  font-family: Arial, Helvetica, sans-serif 
-}
-
-.class5 {
-  font-style: italic;
-} */
 
 .TextClass {
   font-family: Arial, Helvetica, sans-serif ;

@@ -21,5 +21,17 @@ h1 {
 }
 
 .container-fluid {
-background-color: aqua;
+  background-color: aqua;
+}
+
+.container {
+  background-color: brown;
+}
+
+.greenbg {
+  background-color: green;
+}
+
+.yellowbg {
+  background-color: yellow;
 }
