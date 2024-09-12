@@ -19,12 +19,8 @@ h1 {
   background-color: green;
 }
 
-.RedBgColor {
-  background-color: red;
-}
-
 .TextStyle {
-text-decoration: line-through;
+  text-decoration: line-through;
 }
 
 .class3 {
@@ -37,4 +33,5 @@ text-decoration: line-through;
 
 .class5 {
   font-style: italic;
+  background-color: blue;
 }

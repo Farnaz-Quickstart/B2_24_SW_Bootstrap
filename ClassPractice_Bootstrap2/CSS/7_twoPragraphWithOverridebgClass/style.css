@@ -22,3 +22,9 @@ h1 {
 .RedBgColor {
   background-color: red;
 }
+
+.textDescription {
+  font-size: 12px;
+  color:blueviolet;
+  text-decoration: line-through;
+}

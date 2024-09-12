@@ -7,12 +7,16 @@ main {
 }
 
 p {
-  background-color: blue;
+  font-size: 12px;
   color:aliceblue
 }
 
 h1 {
   color:black
+}
+
+div {
+  background-color: red;
 }
 
 .GreenBgColor {
